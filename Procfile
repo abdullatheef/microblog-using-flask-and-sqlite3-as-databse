@@ -1,2 +1,1 @@
-web:
-init: python post.py
+web:python post.py
